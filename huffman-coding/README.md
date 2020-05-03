@@ -40,3 +40,7 @@ from HuffmanCoder for the purpose of display, decoding
 does not happen in this method).  Output
 huffmanCoder.getDecoded() to decode the encoded data
 (decoding is done when this method is called).
+
+*Note:* *thorough commenting to explain our process
+was required by the instructor, including javadoc style 
+comments on private methods*
