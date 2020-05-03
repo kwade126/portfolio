@@ -1,8 +1,6 @@
 
 ## Huffman Coding
 
-#### Program written by Katherine Wade
-
 - **Why I chose this algorithm and how I learned about it:**
 I wanted to learn how compression works. With a little
 research I found that Huffman coding is a component of
@@ -42,29 +40,3 @@ from HuffmanCoder for the purpose of display, decoding
 does not happen in this method).  Output
 huffmanCoder.getDecoded() to decode the encoded data
 (decoding is done when this method is called).
-
-Sources:
-
-https://en.wikipedia.org/wiki/Lossless_compression
-
-https://www.youtube.com/watch?v=0kNXhFIEd_w
-
-https://www.youtube.com/watch?v=dM6us854Jk0
-
-https://www.youtube.com/watch?v=fPthQE7Li8M
-
-https://www.tutorialspoint.com/Huffman-Coding-Algorithm
-
-https://www2.cs.duke.edu/csed/poop/huff/info/
-
-https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/
-
-https://brilliant.org/wiki/huffman-encoding/
-
-https://people.ok.ubc.ca/ylucet/DS/Huffman.html
-
-https://www.geeksforgeeks.org/priority-queue-class-in-java-2/
-
-
-
-
